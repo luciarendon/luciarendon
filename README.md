@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! My name is Lucia and I am a sophomore industrial engineering major. I am currently learning Python and R. I am interested in the risk analysis project. One fun fact about me is that I love to read.
 
 <!--
 **luciarendon/luciarendon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
